@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64" started-at="2018-02-23T19:11:34Z" finished-at="2018-02-23T19:11:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64" started-at="2018-02-23T19:11:34Z" finished-at="2018-02-23T19:11:34Z">
+      <class name="Test.test">
+        <test-method status="PASS" signature="dummy_test_to_fail()[pri:0, instance:Test.test@c038203]" name="dummy_test_to_fail" duration-ms="17" started-at="2018-02-23T21:11:34Z" finished-at="2018-02-23T21:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummy_test_to_fail -->
+        <test-method status="PASS" signature="dummy_test_to_pass()[pri:0, instance:Test.test@c038203]" name="dummy_test_to_pass" duration-ms="3" started-at="2018-02-23T21:11:34Z" finished-at="2018-02-23T21:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummy_test_to_pass -->
+      </class> <!-- Test.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
